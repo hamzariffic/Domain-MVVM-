@@ -112,7 +112,7 @@ interface DilithiumRepository {
 }
 ```
 
-### 4. **Data Layer (Engineering Deck: Thinks should go right here)**
+### 4. **Data Layer (Engineering Deck: Things should go right here)**
 - **Mission**: Data operations & implementation
 - **Contains**:
   - Repository implementations
